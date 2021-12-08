@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aa7eOz/vyzvGME/ih/8wRp5J6DehFQ4L3NU8p5wXPqTTo5tZp1YVQd7YXNWc6gDS+qKfprwk2MZNswiZTJev/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\FinalExamWeb\\FinalExamWeb\\FinalExamWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
